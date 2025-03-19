@@ -1,6 +1,6 @@
 
 # Food & Delivery Website
-
+![Screen shots](/img/responsive-web.png)
 This project was assigned by **Programming Hero** as the final assignment for completing **_21 Days of Code Bootcamp_**, the website is completely responsive and adaptable to any devices.
 
 
